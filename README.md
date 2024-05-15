@@ -17,8 +17,6 @@ Welcome to **The Cyber Streetracker**, a comprehensive web application designed 
 - **User Experience Enhancements**: Intuitive navigation, session management, and quick access to key features.
 
 This project is designed to empower cybersecurity professionals and enthusiasts by providing timely information and tools necessary for staying informed and proactive in the cybersecurity landscape.
-
-<h2> 🌐 <a href="https://cyberstreetracker.streetrack.org">Demo Web App</a>
 <br><br><br>
 
 ![cyberstreetracker1](https://i.imgur.com/pMcGUym.png)
@@ -413,7 +411,13 @@ Throughout the development of **The Cyber Streetracker**, numerous challenges we
 
 #### Conclusion
 The **Cyber Streetracker** project was not just a technical journey but a significant personal growth opportunity. It solidified my career transition into cybersecurity and contributed immensely to passing the AZ-500 certification. This project has laid a strong foundation for future enhancements. Plans to integrate CosmosDB for user CVE search history and to use this web application as a platform for learning more about application security, exploring OWASP standards, and utilizing tools like Burp Suite are already underway. This is just the beginning, and I look forward to continuing to develop and refine **The Cyber Streetracker**.
+<br><br>
 
+---
+### 🌐 [Visit The Cyber Streetracker](https://cyberstreetracker.streetrack.org)
+- **Username:** demo@streetrack.org
+- **Password:** Tofu&un1
+---
 </details>
 
 
