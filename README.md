@@ -75,7 +75,7 @@ This section describes the initial steps for setting up **The Cyber Streetracker
 - **frontend**: Contains HTML, CSS, and JavaScript files.
 - **backend**: Contains Azure Function App files.
 
-With the local setup complete, our integration with GitHub streamlines version control, facilitates collaboration, and supports continuous integration. This setup ensures efficient project contributions and high-quality code maintenance. Next, we will focus on developing and enhancing the frontend components of our web app.
+With the local setup complete, our setup with GitHub streamlines version control, facilitates collaboration, and supports continuous integration. This setup ensures efficient project contributions and high-quality code maintenance. Next, we will focus on developing and enhancing the frontend components of our web app.
 <br><br><br>
 
 ---
