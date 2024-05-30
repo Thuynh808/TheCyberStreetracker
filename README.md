@@ -1,3 +1,9 @@
+<!-- Open Graph Meta Tags for GitHub -->
+<meta property="og:image" content="https://github.com/thuynh808/TheCyberStreetracker/blob/main/cyberstreetracker.png" />
+<meta property="og:image:width" content="1280" />
+<meta property="og:image:height" content="640" />
+
+
 ![cyberstreetracker](https://i.imgur.com/EvXE8lo.png)
 
 ## Introduction
